@@ -17,7 +17,6 @@ EEG Eye State dataset from the UCI Machine Learning Repository.
 * Labels: 0 = eyes open, 1 = eyes closed
 * Each row corresponds to EEG recording at one time point
 
-Dataset is available at https://archive.ics.uci.edu/dataset/264/eeg+eye+state
 
 ### How to download
 
